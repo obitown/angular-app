@@ -28,5 +28,3 @@ export class WelcomePageComponent implements OnInit {
   }
 
 }
-
-test
